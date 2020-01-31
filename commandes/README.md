@@ -20,7 +20,7 @@
   
 ##### Options specifique à **ls/ps** :
   * "-a" : _permet de voir tous les containeurs meme ceux inactif_
-  * "-aq" : _permet de voir tous les **ID** des containeurs meme ceux inactif_
+  * "-aq" : _permet de voir toutes les **ID** des containeurs meme ceux inactif_
   
 #### Types de COMMAND : 
   * "Bash" : _lance un shell dans le containeur_
