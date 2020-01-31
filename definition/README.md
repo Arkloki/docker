@@ -2,6 +2,7 @@
 
 ### Les images Docker
 
+  * Constituée d'une ou plusieurs **composants**  
   * Constituée d'une ou plusieurs **layers**  
        => Stockées dans **/var/lib/docker**
   * Distribuée via un Registry  
