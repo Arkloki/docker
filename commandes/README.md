@@ -15,10 +15,11 @@
   
 ##### Types d'options :    
   * "-ti" : _TTY interactif du conteneur_
-  * "-d" : _le containeur est lancé en background_
+  * "-d" : _le containeur est lancé en background_  
   
-  * "ls -a" : _permet de voir tous les containeurs meme ceux inactif_
-  * "ls -aq" : _permet de voir tous les **ID** des containeurs meme ceux inactif_
+###### Options specifique à **ls**
+  * "-a" : _permet de voir tous les containeurs meme ceux inactif_
+  * "-aq" : _permet de voir tous les **ID** des containeurs meme ceux inactif_
   
 ##### Types de COMMAND : 
   * "Bash" : _lance un shell dans le containeur_
