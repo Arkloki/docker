@@ -13,3 +13,6 @@
 ##### Types d'options :    
   * "-ti" : _TTY interactif du conteneur_
   * "-d" : _le containeur est lancé en background_
+  
+##### Types de COMMAND : 
+  * "Bash" : _lance un shell dans le containeur_
