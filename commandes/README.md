@@ -23,7 +23,7 @@
   
 ##### Types de COMMAND : 
   * "Bash" : _lance un shell dans le containeur_
-  * "Echo /<text/>" : _affiche du texte à la fin du lancement du containeur_
+  * "Echo \<text>" : _affiche du texte à la fin du lancement du containeur_
 
 ### Commandes avancées
   * ```docker container rm -f $(docker container ls -aq"```  
