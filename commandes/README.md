@@ -2,7 +2,10 @@
 
 ### Commandes de bases
   * ```docker container run [Options] <Name Image> ```  
-  => _lance un containeur_
+  => _lance un containeur_  
+  
+  * ```docker container ls [Options]```  
+  => _liste les containeurs en cours d'execution _
   
   * ```docker container start <Container ID>```  
   => _lance un containeur qui à été stoppé_
@@ -13,6 +16,9 @@
 ##### Types d'options :    
   * "-ti" : _TTY interactif du conteneur_
   * "-d" : _le containeur est lancé en background_
+  
+  * "ls -a" : _permet de voir tous les containeurs meme ceux inactif_
+  * "ls -aq" : _permet de voir tous les **ID** des containeurs meme ceux inactif_
   
 ##### Types de COMMAND : 
   * "Bash" : _lance un shell dans le containeur_
