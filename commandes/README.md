@@ -5,7 +5,7 @@
   => _lance un containeur_  
   
   * ```docker container ls [Options]``` ou ```docker ps [Options]```   
-  => _liste les containeurs en cours d'execution _
+  => _liste les containeurs en cours d'execution_
   
   * ```docker container start <Container ID>```  
   => _lance un containeur qui à été stoppé_
