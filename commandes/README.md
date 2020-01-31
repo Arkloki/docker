@@ -4,7 +4,7 @@
   * ```docker container run [Options] <Name Image> <COMMAND> ```  
   => _lance un containeur_  
   
-  * ```docker container ls [Options]``` ou ```docker ps [Options]``` 
+  * ```docker container ls [Options]``` ou ```docker ps [Options]```   
   => _liste les containeurs en cours d'execution _
   
   * ```docker container start <Container ID>```  
