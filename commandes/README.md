@@ -4,7 +4,7 @@
   * ```docker container run [Options] <Name Image> <COMMAND> ```  
   => _lance un containeur_  
   
-  * ```docker container ls [Options]```  
+  * ```docker container ls [Options]``` ou ```docker ps [Options]``` 
   => _liste les containeurs en cours d'execution _
   
   * ```docker container start <Container ID>```  
@@ -17,7 +17,7 @@
   * "-ti" : _TTY interactif du conteneur_
   * "-d" : _le containeur est lancé en background_  
   
-##### Options specifique à **ls** :
+##### Options specifique à **ls/ps** :
   * "-a" : _permet de voir tous les containeurs meme ceux inactif_
   * "-aq" : _permet de voir tous les **ID** des containeurs meme ceux inactif_
   
