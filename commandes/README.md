@@ -30,5 +30,5 @@
   * ```docker container rm -f $(docker container ls -aq```  
   => _efface tous les containeurs meme ceux en cours d'exécution_
   
-  * ```docker inspect -f '{{ .NetworkSettings.IPAddress }}' <Container ID>```  
+  * ```docker inspect --format '{{ .NetworkSettings.IPAddress }}' <Container ID>```  
   => _Permet de sortir l'ip d'un containeur via Json_
