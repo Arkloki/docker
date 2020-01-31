@@ -17,7 +17,7 @@
   * "-ti" : _TTY interactif du conteneur_
   * "-d" : _le containeur est lancé en background_  
   
-##### Options specifique à **ls**
+##### Options specifique à **ls** :
   * "-a" : _permet de voir tous les containeurs meme ceux inactif_
   * "-aq" : _permet de voir tous les **ID** des containeurs meme ceux inactif_
   
