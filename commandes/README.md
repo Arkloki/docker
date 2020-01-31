@@ -27,7 +27,7 @@
   * "Echo \<text>" : _affiche du texte à la fin du lancement du containeur_
 
 ## Commandes avancées
-  * ```docker container rm -f $(docker container ls -aq```  
+  * ```docker container rm -f $(docker container ls -aq)```  
   => _efface tous les containeurs meme ceux en cours d'exécution_
   
   * ```docker inspect --format '{{ .NetworkSettings.IPAddress }}' <Container ID>```  
