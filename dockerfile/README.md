@@ -9,6 +9,10 @@ Image de base
 Execution de commande   
   
 ### WORDKIR
+Ce deplacer dans le repertoire ou l'on souhaite travailler  
+  
+_"seras valable pour toutes les commandes lancer apres celle ci"_  
+  
 ### COPY
 Copie depuis la machine local vers l'image  
   
