@@ -37,7 +37,9 @@ Racine de la commande :
 
 * ls : _voir les images déjà crée_
 * rm : _effacer une ou plusieurs image(s)_
-* prune : _retirer les images non utilisées_
+* prune : _retirer les images non utilisées **dangling**_
+* pull : _Download une image depuis le registry_
+* inspect : _permet d'inspecter une image , fonction aussi avec le format go_
 
 ### Build
 
